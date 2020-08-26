@@ -5,6 +5,7 @@ I am Dirk Bosman, a hybrid react & data developer from South Africa 🇿🇦 res
 ## ⭐ Profiles
 - Github / Gitlab
 - Stack Overflow
+- ProductHunt
 - Linkedin
 - Twitter
 
