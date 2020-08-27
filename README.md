@@ -9,11 +9,12 @@ I am Dirk Bosman, a hybrid react & data developer from South Africa 🇿🇦 res
 - [Twitter](https://twitter.com/dirkjobosman)
 - [Linkedin](https://www.linkedin.com/in/dirkjbosman/)
 
-## ⭐ Articles
+## ⭐ Articles (Authored & Co-Authored)
 - [Medium](https://medium.com/@info_58843)
 - [LinkedIn](https://www.linkedin.com/in/dirkjbosman/detail/recent-activity/posts/)
 - [Journal](https://journals.co.za/content/mandyn/22/3/EJC142270)
-- [Interner Archive](https://web.archive.org/web/20160314150109/http://spinnakr.com/blog/social-media-2/2013/02/2-ways-social-design-improves-user-experience/)
+- [Vertabelo](https://www.vertabelo.com/blog/using-python-and-mysql-in-the-etl-process-using-python-and-sqlalchemy/)
+- [Internet Archive](https://web.archive.org/web/20160314150109/http://spinnakr.com/blog/social-media-2/2013/02/2-ways-social-design-improves-user-experience/)
 
 ## ⭐ Projects
 
