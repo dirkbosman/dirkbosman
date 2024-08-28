@@ -17,7 +17,9 @@ Hey 👋🏻, I am Dirk Bosman, a hybrid react & data developer from South Afric
 - [Internet Archive](https://web.archive.org/web/20160314150109/http://spinnakr.com/blog/social-media-2/2013/02/2-ways-social-design-improves-user-experience/)
 
 ## ⭐ Contributions, Experiments & Projects
-- [2024-08-28] GIF Maker in Python [(Source)](https://github.com/dirkbosman/gifmaker_python)
+- [2024-08-28] GIF Maker
+  - Python [(Source)](https://github.com/dirkbosman/gifmaker_python)
+  - Node - WIP, so so still in private repo [(Source)](https://github.com/dirkbosman/gifmaker_node/)
 - [2024-08-14] BigQuery Loader for Observable Framework [(Source)](https://github.com/observablehq/framework/pull/1543)
 - [2024-07-04] VHS HTML & CSS Refresher [Course](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_course) & [Project](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_project)
 - [2024-05-08] Migration Rotator [(Source)](https://github.com/dirkbosman/migration_rotator)
