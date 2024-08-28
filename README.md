@@ -16,8 +16,10 @@ Hey 👋🏻, I am Dirk Bosman, a hybrid react & data developer from South Afric
 - [Vertabelo](https://www.vertabelo.com/blog/using-python-and-mysql-in-the-etl-process-using-python-and-sqlalchemy/)
 - [Internet Archive](https://web.archive.org/web/20160314150109/http://spinnakr.com/blog/social-media-2/2013/02/2-ways-social-design-improves-user-experience/)
 
-## ⭐ Experiments
+## ⭐ Contributions, Experiments & Projects
 - [2024-08-14] BigQuery Loader for Observable Framework [(Source)](https://github.com/observablehq/framework/pull/1543)
+- [2024-07-04] VHS HTML & CSS Refresher [Course](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_course) & [Project](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_project)
+
 
 
 
