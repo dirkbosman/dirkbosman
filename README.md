@@ -23,3 +23,4 @@ Hey 👋🏻, I am Dirk Bosman, a hybrid react & data developer from South Afric
 - [2024-08-14] BigQuery Loader for Observable Framework [(Source)](https://github.com/observablehq/framework/pull/1543)
 - [2024-07-04] VHS HTML & CSS Refresher [Course](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_course) & [Project](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_project)
 - [2024-05-08] Migration Rotator [(Source)](https://github.com/dirkbosman/migration_rotator)
+- [2020-10-14] AlgoJam [(Source 1)](https://github.com/dirkbosman/algojam), [(Source 2)](https://www.algojam.com/)
