@@ -17,7 +17,7 @@ I am Dirk Bosman, a hybrid react & data developer from South Africa 🇿🇦 res
 - [Internet Archive](https://web.archive.org/web/20160314150109/http://spinnakr.com/blog/social-media-2/2013/02/2-ways-social-design-improves-user-experience/)
 
 ## ⭐ Experiments
-- [2024-08-14] BigQuery Loader for Observable Framework (source)(https://github.com/observablehq/framework/pull/1543)
+- [2024-08-14] BigQuery Loader for Observable Framework [source](https://github.com/observablehq/framework/pull/1543)
 
 
 
