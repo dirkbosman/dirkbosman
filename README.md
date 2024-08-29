@@ -17,21 +17,24 @@ Hey, I am Dirk Bosman, a hybrid react & data developer from South Africa 🇿�
 - [Internet Archive](https://web.archive.org/web/20160314150109/http://spinnakr.com/blog/social-media-2/2013/02/2-ways-social-design-improves-user-experience/)
 
 ## 📌 Projects (Art, Contributions & Experiments)
-#### DONE
-- **2024-08-29** - [Private] Stitcher [(Source)](https://github.com/dirkbosman/stitcher_python)
-- **2024-08-28** - [Private] GIF Maker Python [(Source)](https://github.com/dirkbosman/gifmaker_python)
-- **2024-08-14** - [Public] BigQuery Loader for Observable Framework [(Source)](https://github.com/observablehq/framework/pull/1543)
-- **2024-07-04** - [Private] VHS HTML & CSS Refresher [Course](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_course) & [Project](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_project)
-- **2024-06-17** - [Private] Chicory Flower created with Three.js & React [(Source)](https://github.com/dirkbosman/threejs-001-chicory)
-- **2024-05-31** - [Private] Baking calendar created with React & Typescript [(Source)](https://github.com/dirkbosman/baking-calendar-001)
-- **2024-05-08** - [Private] Migration Rotator [(Source)](https://github.com/dirkbosman/migration_rotator)
-- **2020-10-14** - [Public] AlgoJam [(Source 1)](https://github.com/dirkbosman/algojam), [(Source 2)](https://www.algojam.com/)
+#### PUBLIC
+- **2024-08-14** - BigQuery Loader for Observable Framework [(Source)](https://github.com/observablehq/framework/pull/1543)
+- **2020-10-14** - AlgoJam [(Source 1)](https://github.com/dirkbosman/algojam), [(Source 2)](https://www.algojam.com/)
+
+#### PRIVATE
+- **2024-08-29** - Python Image Stitcher & GitHub Actions [(Source)](https://github.com/dirkbosman/stitcher_python)
+- **2024-08-28** - GIF Maker Python [(Source)](https://github.com/dirkbosman/gifmaker_python)
+- **2024-07-04** - VHS HTML & CSS Refresher [Course](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_course) & [Project](https://github.com/dirkbosman/dirkbosman/wiki/vhs_htmlcss_project)
+- **2024-06-17** - Chicory Flower created with Three.js & React [(Source)](https://github.com/dirkbosman/threejs-001-chicory)
+- **2024-05-31** - Baking calendar created with React & Typescript [(Source)](https://github.com/dirkbosman/baking-calendar-001)
+- **2024-05-08** - Migration Rotator [(Source)](https://github.com/dirkbosman/migration_rotator)
+
 
 #### WIP
-- [Private] Recipe-Ai (MVP > Phase 1 > Phase 2) - High-level Overview Only
-- [Private] Scenario Planner - High-level Overview Only 
-- [Private] HTMX MIP POC
-- [Private] GIF Maker Node - WIP, so so still in private repo [(Source)](https://github.com/dirkbosman/gifmaker_node/)
+- Recipe-Ai (MVP > Phase 1 > Phase 2) - High-level Overview Only
+- Scenario Planner - High-level Overview Only 
+- HTMX MIP POC
+- GIF Maker Node - WIP, so so still in private repo [(Source)](https://github.com/dirkbosman/gifmaker_node/)
 
 <br />
 <br />
